@@ -5,7 +5,7 @@ import Signin.*;
 import Admin.*;
 
 
-			///SIR amader 2 din na ghmay  project er kaj korsi xta marks dien :)
+			
 public class Start {
 	public static void main(String[] args){
 		
